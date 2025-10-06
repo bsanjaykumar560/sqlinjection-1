@@ -21,8 +21,8 @@ Open terminal and try execute some kali linux commands
 
 ## EXECUTION STEPS AND ITS OUTPUT:
 ```python
-Developed By  :  KIRAN G
-Register No   :  212223040095
+Developed By  :  Sanjay kumar.B
+Register No   :  212223220095
 ```
 
 SQL Injection is a sort of infusion assault that makes it conceivable to execute malicious SQL statements. These statements control a database server behind a web application. Assailants can utilize SQL Injection vulnerabilities to sidestep application safety efforts. They can circumvent authentication and authorization of a page or web application and recover the content of the whole SQL database. 
